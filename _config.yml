@@ -242,3 +242,4 @@ defaults:
       share: false
       related: false
       toc: true
+      classes: wide

@@ -1,8 +1,0 @@
----
-layout: single
-title: Hello, Github Blog!
-date: 2022-12-09 12:42:25 +0900
-categories: misc
----
-
-Hello, Github Blog!
