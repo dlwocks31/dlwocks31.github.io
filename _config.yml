@@ -15,11 +15,11 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: dirt
 
 locale                   : "ko-KR"
-title                    : 이재찬의 블로그
+title                    : 이재찬의 개발 블로그
 title_separator          : "-"
 subtitle                 : # ...
 name                     : 이재찬
-description              : 이재찬의 블로그
+description              : 이재찬의 개발 블로그
 url                      : https://dlwocks31.me
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : dlwocks31/dlwocks31.github.io
@@ -53,7 +53,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : dlwocks31
 facebook:
   username               :
   app_id                 :
@@ -78,30 +78,34 @@ analytics:
 author:
   name             : "이재찬"
   avatar           : assets/images/bio_image.jpg
-  bio              : 소프트웨어 개발에 대한 글을 쓸 예정입니다.
+  bio              : 개발자 이재찬입니다. 소프트웨어 개발에 관한, 기억하고 싶은 것들을 기록합니다.
   location         : "Seoul"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dlwocks31@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dlwocks31"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/dlwocks31"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dlwocks31"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dlwocks31"
+
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dlwocks31"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/dlwocks31"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dlwocks31"
-
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dlwocks31"
 
 # Reading Files
 include:

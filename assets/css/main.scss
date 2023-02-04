@@ -12,6 +12,10 @@ search: false
     p,
     li,
     dl {
-        font-size: 0.8182em;
+        font-size: 0.825em;
     }
+}
+
+p {
+    word-break: keep-all;
 }
