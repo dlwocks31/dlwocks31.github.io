@@ -2,10 +2,13 @@
 layout: single
 title: "해커톤 참가 후기 (SPARCS 2023 StartUp Hackathon)"
 date: 2023-02-04 21:00:00 +0900
+thumbnail: /assets/images/2023-02-04/award.jpeg
 categories: retro
 ---
 
 1월 27일부터 29일까지, 2박 3일의 기간 동안 [SPARCS 2023 StartUp Hackathon](https://hackathon.sparcs.org/) 에 참가했습니다! 이곳에 대회 준비와 대회 중 과정에 대한 후기를 적어보려 합니다.
+
+![SPARCS 2023 StartUp Hackathon 홈페이지 캡쳐](/assets/images/2023-02-04/intro.png)
 
 ## 대회 전
 
