@@ -8,13 +8,16 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__content {
-    p,
-    li,
-    dl {
-        font-size: 0.825em;
+@media screen and (min-width: 768px) {
+    .page__content {
+        p,
+        li,
+        dl {
+            font-size: 0.85em;
+        }
     }
 }
+
 
 p {
     word-break: keep-all;
