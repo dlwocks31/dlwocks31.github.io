@@ -2,7 +2,6 @@
 layout: single
 title: "해커톤 참가 후기 (SPARCS 2023 StartUp Hackathon)"
 date: 2023-02-04 21:00:00 +0900
-thumbnail: /assets/images/2023-02-04/award.jpeg
 categories: retro
 ---
 
