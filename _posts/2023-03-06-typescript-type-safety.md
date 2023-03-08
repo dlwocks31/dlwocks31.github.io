@@ -11,11 +11,7 @@ categories: software
 
 타입을 알 수 없는 외부 데이터를 가져오게 되는 경우의 예시를 들어보자면, 아래와 같이 `fetch` 함수를 통해 API에서 데이터를 가져오는 경우가 있습니다.
 
-```typescript
-async function getUserData(userId: string) {
-  return await (await fetch(`/api/user/${userId}`)).json();
-}
-```
+![getUserData 샘플 코드](/assets/images/2023-03-06/0-thumbnail.png)
 
 일반적으로 이런 데이터는 정해져있는 스키마가 있지만, API 스펙이 변경되거나 예상치 못한 에러 등 이유로 인해 데이터의 실제 타입은 우리의 기대와 다를 수도 있습니다. 그렇다면 어떤 방식으로 타입스크립트를 활용해야 이 함수에서 반환된 데이터를 안전하고 편리하게 사용할 수 있을까요?
 
