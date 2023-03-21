@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 로컬 서버를 인터넷에 공유하고 싶을 때 - SirTunnel로 터널링 서버 구축하기
+title: SirTunnel를 활용한 터널링 서버 구축 - 로컬 서버를 인터넷에 공유하기
 date: 2023-02-19 21:00:00 +0900
 categories: software
 ---
