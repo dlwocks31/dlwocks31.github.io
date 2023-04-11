@@ -36,7 +36,7 @@ comments:
     category_id          : DIC_kwDOCWNfYs4CVr0l
     discussion_term      : pathname
     reactions_enabled    : 1
-    theme                : preferred_color_scheme
+    theme                : light
 reCaptcha:
   siteKey                :
   secret                 :
