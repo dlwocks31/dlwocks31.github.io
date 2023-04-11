@@ -29,10 +29,14 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : utterances
-  utterances:
-    theme                : github-light
-    issue_term           : pathname
+  provider: "giscus"
+  giscus:
+    repo_id              : MDEwOlJlcG9zaXRvcnkxNTc1MDc0MjY=
+    category_name        : Announcements
+    category_id          : DIC_kwDOCWNfYs4CVr0l
+    discussion_term      : pathname
+    reactions_enabled    : 1
+    theme                : preferred_color_scheme
 reCaptcha:
   siteKey                :
   secret                 :
