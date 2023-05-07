@@ -97,7 +97,7 @@ ADT만큼 데이터와 함수의 연결이 명확한 경우가 아니라면, 데
 [39:08](https://youtu.be/QM1iUe6IofM?t=2348)
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-### Reference
+## 참고한 영상들
 
 - [[Brian Will] Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM&ab_channel=BrianWill)
 - [[Brian Will] Object-Oriented Programming is Good*](https://www.youtube.com/watch?v=0iyB0_qPvWk&t=435s&ab_channel=BrianWill)
