@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 타입스크립트에서 ts-pattern과 패턴 매칭 사용해보기
+title: 타입스크립트와 ts-pattern을 활용한 선언적 패턴 매칭
 date: 2023-05-20 16:00:00 +0900
 categories: software
 ---
